@@ -9,7 +9,7 @@ dataclasses_json == 0.2.14
 pymongo == 3.9.0
 
 # service\openweather.py: 1
-requests == 2.22.0
+requests == 2.31.0
 
 # main.py: 1
 schedule == 0.6.0
